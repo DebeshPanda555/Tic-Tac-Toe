@@ -1,2 +1,16 @@
 # Tic-Tac-Toe
-🎮 A simple Tic Tac Toe game built with basic HTML &amp; CSS. Playable in the browser with a clean, responsive UI. Great for beginners exploring front-end development. No JavaScript used—just pure layout and styling magic! ✨
+🎮 Tic Tac Toe Game
+
+A simple and interactive Tic Tac Toe game built using HTML, CSS, and Vanilla JavaScript. This classic game allows two players to take turns placing Xs and Os on a 3x3 grid until one wins or the game ends in a draw.
+
+🚀 Features
+	•	Two-player mode (local)
+	•	Clean and responsive UI
+	•	Real-time win/draw detection
+	•	Game reset functionality
+	•	Basic AI logic (optional enhancement)
+
+🛠️ Tech Stack
+	•	HTML – For the structure and layout of the grid
+	•	CSS – For styling, colors, and responsive design
+	•	JavaScript – For game logic, player turns, and win condition checks
